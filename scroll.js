@@ -1,4 +1,3 @@
-//<![CDATA[
 function shortCodeIfy(_0xdafax3, _0xdafax4, _0xdafax5) {
     for (var _0xdafax6 = _0xdafax3.split('$'), _0xdafax7 = /[^{\}]+(?=})/g, _0xdafax8 = 0; _0xdafax8 < _0xdafax6.length; _0xdafax8++) {
         var _0xdafax9 = _0xdafax6[_0xdafax8].split('=');
@@ -454,4 +453,3 @@ $('#seopro-preview-main-nav').menuify(), $('#seopro-preview-main-nav .widget').a
         })
     })
 })
-//]]>
